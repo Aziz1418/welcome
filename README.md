@@ -51,8 +51,8 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 0 | [Installfest](curriculum/lesson-plans/00-installfest/README.md) || Lesson 11 | [Advanced APIs](curriculum/lesson-plans/11-advanced-apis/README.md)|
-| Lesson 1 | [JS on the Command Line](curriculum/lesson-plans/01-command-line-JS/README.md) || Lesson 12 | [Lab Time](curriculum/lesson-plans/12-in-class-lab/README.md)|
+| Lesson 0 | [Installfest](https://github.com/misk-jsd2/00-installfest) || Lesson 11 | [Advanced APIs](curriculum/lesson-plans/11-advanced-apis/README.md)|
+| Lesson 1 | [JS on the Command Line](https://github.com/misk-jsd2/01-command-line-JS) || Lesson 12 | [Lab Time](curriculum/lesson-plans/12-in-class-lab/README.md)|
 | Lesson 2 | [Data Types](curriculum/lesson-plans/02-data-types/README.md) || **Project 2**  |[ Feedr - Your Personalized Feed Reader](curriculum/projects/unit2/project-02.md) |
 | Lesson 3| [Conditionals and Loops](curriculum/lesson-plans/03-conditionals-and-loops/README.md) || Lesson 13 | [Prototypal Inheritance](curriculum/lesson-plans/13-prototypal-inheritance/README.md) |
 | Lesson 4 | [Functions and Scope](curriculum/lesson-plans/04-functions-and-scope/README.md) || Lesson 14 | [Closures and This](curriculum/lesson-plans/14-closures-and-this/README.md) |
@@ -105,7 +105,8 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 
 
 <br>
-## Homeworks
+
+## Homework
 
 
 - Fork the repository by hitting the fork button on the repository page
@@ -129,7 +130,7 @@ In order to pass this course General Assembly students must:
 
 <br>
 
-#### Further Resources
+## Further Resources
 
 * Feel free to read more from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) about JavaScript fundamentals.
 
