@@ -53,8 +53,8 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 | --- | :---: | --- |  --- | :---: |
 | Lesson 0 | [Installfest](https://github.com/misk-jsd2/00-installfest) || Lesson 11 | [Advanced APIs](curriculum/lesson-plans/11-advanced-apis/README.md)|
 | Lesson 1 | [JS on the Command Line](https://github.com/misk-jsd2/01-command-line-JS) || Lesson 12 | [Lab Time](curriculum/lesson-plans/12-in-class-lab/README.md)|
-| Lesson 2 | [Data Types](curriculum/lesson-plans/02-data-types/README.md) || **Project 2**  |[ Feedr - Your Personalized Feed Reader](curriculum/projects/unit2/project-02.md) |
-| Lesson 3| [Conditionals and Loops](curriculum/lesson-plans/03-conditionals-and-loops/README.md) || Lesson 13 | [Prototypal Inheritance](curriculum/lesson-plans/13-prototypal-inheritance/README.md) |
+| Lesson 2 | [Data Types](https://github.com/misk-jsd2/02-data-types) || **Project 2**  |[ Feedr - Your Personalized Feed Reader](curriculum/projects/unit2/project-02.md) |
+| Lesson 3| [Conditionals and Loops](https://github.com/misk-jsd2/03-conditionals-and-loops) || Lesson 13 | [Prototypal Inheritance](curriculum/lesson-plans/13-prototypal-inheritance/README.md) |
 | Lesson 4 | [Functions and Scope](curriculum/lesson-plans/04-functions-and-scope/README.md) || Lesson 14 | [Closures and This](curriculum/lesson-plans/14-closures-and-this/README.md) |
 | Lesson 5 | [**Project 1 Lab:** Slackbot](curriculum/lesson-plans/05-in-class-lab) ||Lesson 15| [Intro to CRUD and Firebase](curriculum/lesson-plans/15-intro-to-crud-and-firebase) |
 | Lesson 6 | [Objects and JSON](curriculum/lesson-plans/06-objects-and-json/README.md) ||Lesson 16| [Deploying Your App](curriculum/lesson-plans/16-deploying-your-app/README.md) |
