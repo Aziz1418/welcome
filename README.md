@@ -18,8 +18,8 @@ Welcome to JSD 2. This repository contains information and materials specific to
   - Weekday Office Hours: 
 
 - **Moroj Alharbi** (Instructional Associate)
-  - [EMAIL](mailto:moroj.alharbi@generalassemb.ly)
-  - Weekday Office Hours: 
+  - [moroj.alharbi@generalassemb.ly](mailto:moroj.alharbi@generalassemb.ly)
+  - Weekday Office Hours: Monday 6-8pm
 
 <br>
 
