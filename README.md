@@ -18,7 +18,7 @@ Welcome to JSD 2. This repository contains information and materials specific to
   - Feel free to Slack me anytime. I will respond as promptly as I can:)
 
 - **Moroj Alharbi** (Instructional Associate)
-  - [moroj.alharbi@generalassemb.ly](mailto:moroj.alharbi@generalassemb.ly)
+  - [moroj.alh@gmail.com](mailto:moroj.alh@gmail.com)
   - Weekday Office Hours: Monday 6-8pm
 
 <br>
