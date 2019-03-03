@@ -15,7 +15,7 @@ Welcome to JSD 2. This repository contains information and materials specific to
 ## Instructional Team
 - **Marc Wright** (Lead Instructor)
   - [marc@generalassemb.ly](mailto:marc@generalassemb.ly)
-  - Weekday Office Hours: 
+  - Weekday Office Hours: Wednesday 5-6pm by appointment
 
 - **Moroj Alharbi** (Instructional Associate)
   - [moroj.alharbi@generalassemb.ly](mailto:moroj.alharbi@generalassemb.ly)
@@ -29,8 +29,6 @@ We use Github for source code management. Every student will need an account, wi
 <br>
 
 ## Course Outline
-The following is given as a guideline only and may be adjusted by the instructor based upon the pace of the class.
-
 General Assembly's JavaScript Development course is made up of 20 lessons that are 3 hours each. This course is split into 4 units.
 
 <br>
@@ -100,8 +98,6 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 |28    | []() |  | |  |
 |29    | []() |  | |  |
 |30    | []() |  | |  |
-|31    | []() |  | |  |
-
 
 
 <br>
@@ -111,7 +107,6 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 
 - Fork the repository by hitting the fork button on the repository page
 - Clone the repository on your local machine in a safe place
-- Create a `dev` branch: `git checkout -b dev`
 - Do your homework in the appropriate directory
 - `git add`, `git commit` and `git push` your work to your GitHub fork of the repo
 - Create a pull request, using the pull request button
