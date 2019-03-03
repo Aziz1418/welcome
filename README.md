@@ -8,14 +8,14 @@ Welcome to JSD 2. This repository contains information and materials specific to
 ## Important links
 - [Class Slack](https://miskacademy.slack.com/messages/CFCFWUA4S/)
 - [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSeesS4JlEucM097ZlYR1CJTPE21TihB66hLjoEFeVABk0F_gQ/viewform)
-- [Padlet](https://padlet.com/ebere/jihnvwm32ucf)
 
 <br>
 
 ## Instructional Team
 - **Marc Wright** (Lead Instructor)
   - [marc@generalassemb.ly](mailto:marc@generalassemb.ly)
-  - Weekday Office Hours: Wednesday 5-6pm by appointment
+  - Weekday Office Hours: Tuesday 5-6pm by appointment
+  - Feel free to Slack me anytime. I will respond as promptly as I can:)
 
 - **Moroj Alharbi** (Instructional Associate)
   - [moroj.alharbi@generalassemb.ly](mailto:moroj.alharbi@generalassemb.ly)
