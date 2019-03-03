@@ -24,7 +24,7 @@ Welcome to JSD 2. This repository contains information and materials specific to
 <br>
 
 ## Github
-We use Github for source code management. Every student will need an account, with all projects and assignments stored there. [See appendix](#github-links) for the full list.
+We use Github for source code management. Every student will need an account, with all projects and assignments stored there. 
 
 <br>
 
