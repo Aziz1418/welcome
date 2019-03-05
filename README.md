@@ -7,7 +7,7 @@ Welcome to JSD 2. This repository contains information and materials specific to
 
 ## Important links
 - [Class Slack](https://miskacademy.slack.com/messages/CFCFWUA4S/)
-- [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSeesS4JlEucM097ZlYR1CJTPE21TihB66hLjoEFeVABk0F_gQ/viewform)
+- [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSd8q6vJFvzzOqYzbiEgRSUPO9nUBqhLUuHzWt0B2HXnZRKR2Q/viewform)
 
 <br>
 
