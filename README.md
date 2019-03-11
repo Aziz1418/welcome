@@ -53,8 +53,8 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 | Lesson 1 | [JS on the Command Line](https://github.com/misk-jsd2/01-command-line-JS) || Lesson 12 | [Lab Time](curriculum/lesson-plans/12-in-class-lab/README.md)|
 | Lesson 2 | [Data Types](https://github.com/misk-jsd2/02-data-types) || **Project 2**  |[ Feedr - Your Personalized Feed Reader](curriculum/projects/unit2/project-02.md) |
 | Lesson 3| [Conditionals and Loops](https://github.com/misk-jsd2/03-conditionals-and-loops) || Lesson 13 | [Prototypal Inheritance](curriculum/lesson-plans/13-prototypal-inheritance/README.md) |
-| Lesson 4 | [Functions and Scope](curriculum/lesson-plans/04-functions-and-scope/README.md) || Lesson 14 | [Closures and This](curriculum/lesson-plans/14-closures-and-this/README.md) |
-| Lesson 5 | [**Project 1 Lab:** Slackbot](curriculum/lesson-plans/05-in-class-lab) ||Lesson 15| [Intro to CRUD and Firebase](curriculum/lesson-plans/15-intro-to-crud-and-firebase) |
+| Lesson 4 | [Functions and Scope](https://github.com/misk-jsd2/04-functions-and-scope) || Lesson 14 | [Closures and This](curriculum/lesson-plans/14-closures-and-this/README.md) |
+| Lesson 5 | [**Project 1 Lab:** Slackbot](https://github.com/misk-jsd2/05-in-class-lab) ||Lesson 15| [Intro to CRUD and Firebase](curriculum/lesson-plans/15-intro-to-crud-and-firebase) |
 | Lesson 6 | [Objects and JSON](curriculum/lesson-plans/06-objects-and-json/README.md) ||Lesson 16| [Deploying Your App](curriculum/lesson-plans/16-deploying-your-app/README.md) |
 | Lesson 7 | [Intro to DOM & jQuery](curriculum/lesson-plans/07-intro-to-dom-and-jquery/README.md)|| Lesson 17 |  [Instructor Student Choice](curriculum/lesson-plans/17-instructor-student-choice/README.md) |
 | Lesson 8 | [DOM & jQuery Continued](curriculum/lesson-plans/08-dom-and-jquery-continued/README.md) || Lesson 18 |[Lab Time](curriculum/lesson-plans/18-lab-time/README.md) |
