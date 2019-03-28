@@ -68,36 +68,33 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 
 | No. | Student |Project 1 Repo | Project 2 Repo | Final Project
 |---  | ---     | ---     |---      |---             |  
-|1     | []() |  | |  |
-|2     | []() |  | |  |
-|3     | []() |  | |  |
-|4     | []() |  | |  |
-|5    | []() |  | |  |
-|6     | []() |  | |  |
-|7     | []() |  | |  |
-|8     | []() |  | |  |
-|9     | []() |  | |  |
-|10     | []() |  | |  |
-|11     | []() |  | |  |
-|12     | []() |  | |  |
-|13     | []() |  | |  |
-|14     | []() |  | |  |
-|15     | []() |  | |  |
-|16     | []() |  | |  |
-|17     | []() |  | |  |
-|18     | []() |  | |  |
-|19     | []() |  | |  |
-|20    |  |  | |  |
-|21    |  |  | |  |
-|22    | []() |  | |  |
-|23    | []() |  | |  |
-|24    | []() |  | |  |
-|25    | []() |  | |  |
-|26    | []() |  | |  |
-|27    | []() |  | |  |
-|28    | []() |  | |  |
-|29    | []() |  | |  |
-|30    | []() |  | |  |
+|1    | [Abdulaziz Aldawsari](https://github.com/Oz3Oz3) | [Slackbot](https://github.com/Oz3Oz3/05-in-class-lab) | |  |
+|2    | [Abdulaziz Alaboodi]() | [Slackbot]() | |  |
+|3    | [AbdulKarim Alsaedi](https://github.com/ajrfs) | [Slackbot](https://github.com/ajrfs/05-in-class-lab) | |  |
+|4    | [Abdullah Almalki]() | [Slackbot]()  | |  |
+|5    | [Abdulsalam Alahmari](https://github.com/salam9) | [Slackbot](https://github.com/salam9/05-in-class-lab) | |  |
+|6    | [Abeer Alquriny](https://github.com/abeersq) | [Slackbot](https://github.com/abeersq/05-in-class-lab) | |  |
+|7    | [Bashayer Alghafis](https://github.com/bashayeralghafis) | [Slackbot](https://github.com/bashayeralghafis/05-in-class-lab) | |  |
+|8    | [Fahad Alajmi](https://github.com/fahad5) | [Slackbot](https://github.com/fahad5/05-in-class-lab) | |  |
+|9    | [Fahad Alessa](https://github.com/FahadAlessa90) | [Slackbot](https://github.com/FahadAlessa90/05-in-class-lab) | |  |
+|10   | [Fawaz Mashi](https://github.com/fawazfm) | [Slackbot](https://github.com/fawazfm/05-in-class-lab) | |  |
+|11   | [Hamad Alqarni](https://github.com/hamadalqarni) | [Slackbot](https://github.com/hamadalqarni/05-in-class-lab) | |  |
+|12   | [Hussam Alkhaibari](https://github.com/husamx99) | [Slackbot](https://github.com/husamx99/05-in-class-lab) | |  |
+|13   | [Hussam Dehathim](https://github.com/SamDe4574) | [Slackbot](https://github.com/SamDe4574/05-in-class-lab) | |  |
+|14   | [Ibrahim Alduayji](https://github.com/alduayji) | [Slackbot](https://github.com/alduayji/05-in-class-lab) | |  |
+|15   | [Minerah Alnasser](https://github.com/moneeraalnasser) | [Slackbot](https://github.com/moneeraalnasser/05-in-class-lab) | |  |
+|16   | [Mohammed Alsanad](https://github.com/mohammedsanad) | [Slackbot](https://github.com/mohammedsanad/05-in-class-lab) | |  |
+|17   | [Mohammed Almawash](https://github.com/mo7md2) | [Slackbot](https://github.com/mo7md2/05-in-class-lab) | |  |
+|18   | [Nourah Almalki](https://github.com/nourah08) | [Slackbot](https://github.com/nourah08/05-in-class-lab) | |  |
+|19   | [Omar Alokali](https://github.com/OmarAlokali) | [Slackbot](https://github.com/OmarAlokali/05-in-class-lab) | |  |
+|20   | [Raghad Alminqah](https://github.com/RaghadAlminqah) | [Slackbot](https://github.com/RaghadAlminqah/05-in-class-lab) | |  |
+|21   | [Sara Fahad](https://github.com/stop741) | [Slackbot](https://github.com/stop741/05-in-class-lab) | |  |
+|22   | [Sultan Alqaedi](https://github.com/salqaedi0) | [Slackbot](https://github.com/salqaedi0/05-in-class-lab) | |  |
+|23   | [Thamer Alhathni](https://github.com/thaalhathanni) | [Slackbot](https://github.com/thaalhathanni/05-in-class-lab) | |  |
+|24   | [Yaseer Alghunaim](https://github.com/alghunaimyasser) | [Slackbot](https://github.com/alghunaimyasser/05-in-class-lab) | |  |
+|25   | [Yazeed Alotaibi](https://github.com/yazeedhathal) | [Slackbot](https://github.com/yazeedhathal/05-in-class-lab) | |  |
+|26   | [Ziyad Almansouri](https://github.com/ziyadSman) | [Slackbot](https://github.com/ziyadSman/05-in-class-lab) | |  |
+
 
 
 <br>
