@@ -69,9 +69,9 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 | No. | Student |Project 1 Repo | Project 2 Repo | Final Project
 |---  | ---     | ---     |---      |---             |  
 |1    | [Abdulaziz Aldawsari](https://github.com/Oz3Oz3) | [Slackbot](https://github.com/Oz3Oz3/05-in-class-lab) | |  |
-|2    | Abdulaziz Alaboodi |  | |  |
+|2    | [Abdulaziz Alaboodi](https://github.com/Aziz891) |  | |  |
 |3    | [AbdulKarim Alsaedi](https://github.com/ajrfs) | [Slackbot](https://github.com/ajrfs/05-in-class-lab) | |  |
-|4    | Abdullah Almalki |   | |  |
+|4    | [Abdullah Almalki](https://github.com/aalmalki) |   | |  |
 |5    | [Abdulsalam Alahmari](https://github.com/salam9) | [Slackbot](https://github.com/salam9/05-in-class-lab) | |  |
 |6    | [Abeer Alquriny](https://github.com/abeersq) | [Slackbot](https://github.com/abeersq/05-in-class-lab) | |  |
 |7    | [Bashayer Alghafis](https://github.com/bashayeralghafis) | [Slackbot](https://github.com/bashayeralghafis/05-in-class-lab) | |  |
