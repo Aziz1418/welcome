@@ -57,7 +57,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 | Lesson 5 | [**Project 1 Lab:** Slackbot](https://github.com/misk-jsd2/05-in-class-lab) ||Lesson 15| [Intro to CRUD and Firebase](curriculum/lesson-plans/15-intro-to-crud-and-firebase) |
 | Lesson 6 | [Objects and JSON](https://github.com/misk-jsd2/06-objects-and-json) ||Lesson 16| [Deploying Your App](curriculum/lesson-plans/16-deploying-your-app/README.md) |
 | Lesson 7 | [Intro to DOM & jQuery](https://github.com/misk-jsd2/07-intro-to-dom-and-jquery)|| Lesson 17 |  [Instructor Student Choice](curriculum/lesson-plans/17-instructor-student-choice/README.md) |
-| Lesson 8 | [AJAX and APIs](https://github.com/misk-jsd2/08-ajax-and-apis) |
+| Lesson 8 | [AJAX and APIs](https://github.com/misk-jsd2/08-ajax-and-apis) || Lesson 18 |  Lab Time |
 | Lesson 9 | [DOM & jQuery Continued](https://github.com/misk-jsd2/09-dom-and-jquery-continued) ||**Project 3** |[Your Single Page App](curriculum/projects/unit4/project-04.md) |
 | Lesson 10| [Asynchronous JS and Callbacks](curriculum/lesson-plans/10-asynchronous-javascript-and-callbacks/README.md) | |Lesson 19| Final Project Presentations |
 
