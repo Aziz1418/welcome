@@ -49,7 +49,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 0 | [Installfest](https://github.com/misk-jsd2/00-installfest) || Lesson 11 | [Advanced APIs](curriculum/lesson-plans/11-advanced-apis/README.md)|
+| Lesson 0 | [Installfest](https://github.com/misk-jsd2/00-installfest) || Lesson 11 | [Advanced APIs](https://github.com/misk-jsd2/10-advanced-apis)|
 | Lesson 1 | [JS on the Command Line](https://github.com/misk-jsd2/01-command-line-JS) || Lesson 12 | [Lab Time](curriculum/lesson-plans/12-in-class-lab/README.md)|
 | Lesson 2 | [Data Types](https://github.com/misk-jsd2/02-data-types) || **Project 2**  |[ Feedr - Your Personalized Feed Reader](curriculum/projects/unit2/project-02.md) |
 | Lesson 3| [Conditionals and Loops](https://github.com/misk-jsd2/03-conditionals-and-loops) || Lesson 13 | [Prototypal Inheritance](curriculum/lesson-plans/13-prototypal-inheritance/README.md) |
@@ -59,7 +59,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 | Lesson 7 | [Intro to DOM & jQuery](https://github.com/misk-jsd2/07-intro-to-dom-and-jquery)|| Lesson 17 |  [Instructor Student Choice](curriculum/lesson-plans/17-instructor-student-choice/README.md) |
 | Lesson 8 | [AJAX and APIs](https://github.com/misk-jsd2/08-ajax-and-apis) || Lesson 18 |  [Lab Time](https://git.generalassemb.ly/ga-ksa/jsd-global/blob/master/curriculum/lesson-plans/18-lab-time/README.md) |
 | Lesson 9 | [DOM & jQuery Continued](https://github.com/misk-jsd2/09-dom-and-jquery-continued) ||**Project 3** |[Your Single Page App](curriculum/projects/unit4/project-04.md) |
-| Lesson 10| [Asynchronous JS and Callbacks](curriculum/lesson-plans/10-asynchronous-javascript-and-callbacks/README.md) | |Lesson 19| Final Project Presentations |
+| Lesson 10| [Asynchronous JS and Callbacks](https://github.com/misk-jsd2/09-asynchronous-javascript-and-callbacks) | |Lesson 19| Final Project Presentations |
 
 
 <br>
