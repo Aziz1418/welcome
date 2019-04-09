@@ -49,8 +49,8 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 0 | [Installfest](https://github.com/misk-jsd2/00-installfest) || Lesson 11 | [Lab Time](https://github.com/misk-jsd2/11-in-class-lab-feedr)|
-| Lesson 1 | [JS on the Command Line](https://github.com/misk-jsd2/01-command-line-JS) || **Project 2** | [ Feedr - Your Personalized Feed Reader](https://github.com/misk-jsd2/Project-2-Feedr/tree/master)|
+| Lesson 0 | [Installfest](https://github.com/misk-jsd2/00-installfest) || Lesson 11 | [Lab Time](https://github.com/misk-jsd2/11-project-2-feedr)|
+| Lesson 1 | [JS on the Command Line](https://github.com/misk-jsd2/01-command-line-JS) || **Project 2** | [ Feedr - Your Personalized Feed Reader](https://github.com/misk-jsd2/11-project-2-feedr)|
 | Lesson 2 | [Data Types](https://github.com/misk-jsd2/02-data-types) || Lesson 12  |[Prototypal Inheritance](curriculum/lesson-plans/13-prototypal-inheritance/README.md) |
 | Lesson 3| [Conditionals and Loops](https://github.com/misk-jsd2/03-conditionals-and-loops) || Lesson 13 | [Closures and This](curriculum/lesson-plans/14-closures-and-this/README.md) |
 | Lesson 4 | [Functions and Scope](https://github.com/misk-jsd2/04-functions-and-scope) || Lesson 14 | [Intro to CRUD and Firebase](curriculum/lesson-plans/15-intro-to-crud-and-firebase) |
