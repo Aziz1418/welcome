@@ -49,19 +49,19 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 0 | [Installfest](https://github.com/misk-jsd2/00-installfest) || Lesson 11 | [Advanced APIs](https://github.com/misk-jsd2/10-advanced-apis)|
-| Lesson 1 | [JS on the Command Line](https://github.com/misk-jsd2/01-command-line-JS) || Lesson 12 | [Lab Time](curriculum/lesson-plans/12-in-class-lab/README.md)|
-| Lesson 2 | [Data Types](https://github.com/misk-jsd2/02-data-types) || **Project 2**  |[ Feedr - Your Personalized Feed Reader](curriculum/projects/unit2/project-02.md) |
-| Lesson 3| [Conditionals and Loops](https://github.com/misk-jsd2/03-conditionals-and-loops) || Lesson 13 | [Prototypal Inheritance](curriculum/lesson-plans/13-prototypal-inheritance/README.md) |
-| Lesson 4 | [Functions and Scope](https://github.com/misk-jsd2/04-functions-and-scope) || Lesson 14 | [Closures and This](curriculum/lesson-plans/14-closures-and-this/README.md) |
-| Lesson 5 | [**Project 1 Lab:** Slackbot](https://github.com/misk-jsd2/05-in-class-lab) ||Lesson 15| [Intro to CRUD and Firebase](curriculum/lesson-plans/15-intro-to-crud-and-firebase) |
-| Lesson 6 | [Objects and JSON](https://github.com/misk-jsd2/06-objects-and-json) ||Lesson 16| [Deploying Your App](curriculum/lesson-plans/16-deploying-your-app/README.md) |
+| Lesson 0 | [Installfest](https://github.com/misk-jsd2/00-installfest) || Lesson 11 | [Lab Time](https://github.com/misk-jsd2/11-in-class-lab-feedr)|
+| Lesson 1 | [JS on the Command Line](https://github.com/misk-jsd2/01-command-line-JS) || **Project 2** | [ Feedr - Your Personalized Feed Reader](https://github.com/misk-jsd2/Project-2-Feedr/tree/master)|
+| Lesson 2 | [Data Types](https://github.com/misk-jsd2/02-data-types) || Lesson 12  |[Prototypal Inheritance](curriculum/lesson-plans/13-prototypal-inheritance/README.md) |
+| Lesson 3| [Conditionals and Loops](https://github.com/misk-jsd2/03-conditionals-and-loops) || Lesson 13 | [Closures and This](curriculum/lesson-plans/14-closures-and-this/README.md) |
+| Lesson 4 | [Functions and Scope](https://github.com/misk-jsd2/04-functions-and-scope) || Lesson 14 | [Intro to CRUD and Firebase](curriculum/lesson-plans/15-intro-to-crud-and-firebase) |
+| Lesson 5 | [**Project 1 Lab:** Slackbot](https://github.com/misk-jsd2/05-in-class-lab) ||Lesson 15| [Deploying Your App](curriculum/lesson-plans/16-deploying-your-app/README.md) |
+| Lesson 6 | [Objects and JSON](https://github.com/misk-jsd2/06-objects-and-json) ||Lesson 16| [React](curriculum/lesson-plans/17-instructor-student-choice/README.md) |
 | Lesson 7 | [Intro to DOM & jQuery](https://github.com/misk-jsd2/07-intro-to-dom-and-jquery)|| Lesson 17 |  [Instructor Student Choice](curriculum/lesson-plans/17-instructor-student-choice/README.md) |
 | Lesson 8 | [AJAX and APIs](https://github.com/misk-jsd2/08-ajax-and-apis) || Lesson 18 |  [Lab Time](https://git.generalassemb.ly/ga-ksa/jsd-global/blob/master/curriculum/lesson-plans/18-lab-time/README.md) |
-| Lesson 9 | [DOM & jQuery Continued](https://github.com/misk-jsd2/09-dom-and-jquery-continued) ||**Project 3** |[Your Single Page App](curriculum/projects/unit4/project-04.md) |
-| Lesson 10| [Asynchronous JS and Callbacks](https://github.com/misk-jsd2/09-asynchronous-javascript-and-callbacks) | |Lesson 19| Final Project Presentations |
+| Lesson 9 | [Asynchronous JS and Callbacks](https://github.com/misk-jsd2/09-asynchronous-javascript-and-callbacks) ||**Project 3** |[Your Single Page App](curriculum/projects/unit4/project-04.md) |
+| Lesson 10| [Advanced APIs](https://github.com/misk-jsd2/10-advanced-apis)| |Lesson 19| Final Project Presentations |
 
-
+<!--[DOM & jQuery Continued](https://github.com/misk-jsd2/09-dom-and-jquery-continued)-->
 <br>
 
 ## Students
