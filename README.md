@@ -54,7 +54,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 | Lesson 2 | [Data Types](https://github.com/misk-jsd2/02-data-types) || Lesson 12  |[Prototypal Inheritance](curriculum/lesson-plans/13-prototypal-inheritance/README.md) |
 | Lesson 3| [Conditionals and Loops](https://github.com/misk-jsd2/03-conditionals-and-loops) || Lesson 13 | [Closures and This](curriculum/lesson-plans/14-closures-and-this/README.md) |
 | Lesson 4 | [Functions and Scope](https://github.com/misk-jsd2/04-functions-and-scope) || Lesson 14 | [Intro to CRUD and Firebase](https://github.com/misk-jsd2/14-intro-to-crud-and-firebase) |
-| Lesson 5 | [**Project 1 Lab:** Slackbot](https://github.com/misk-jsd2/05-in-class-lab) ||Lesson 15| [Deploying Your App](curriculum/lesson-plans/16-deploying-your-app/README.md) |
+| Lesson 5 | [**Project 1 Lab:** Slackbot](https://github.com/misk-jsd2/05-in-class-lab) ||Lesson 15| [Firebase Deployment and Authentication](https://github.com/misk-jsd2/15-firebase-deployment-and-authentication) |
 | Lesson 6 | [Objects and JSON](https://github.com/misk-jsd2/06-objects-and-json) ||Lesson 16| [React](curriculum/lesson-plans/17-instructor-student-choice/README.md) |
 | Lesson 7 | [Intro to DOM & jQuery](https://github.com/misk-jsd2/07-intro-to-dom-and-jquery)|| Lesson 17 |  [Instructor Student Choice](curriculum/lesson-plans/17-instructor-student-choice/README.md) |
 | Lesson 8 | [AJAX and APIs](https://github.com/misk-jsd2/08-ajax-and-apis) || Lesson 18 |  [Lab Time](https://git.generalassemb.ly/ga-ksa/jsd-global/blob/master/curriculum/lesson-plans/18-lab-time/README.md) |
