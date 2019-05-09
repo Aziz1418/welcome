@@ -74,7 +74,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 |4    | [Abdullah Almalki](https://github.com/aalmalki) | [Slackbot](https://github.com/aalmalki/05-in-class-lab) | [Feedr](https://github.com/aalmalki/11-project-2-feedr) | [Games Website](https://github.com/husamx99/Games-Website) |
 |5    | [Abdulsalam Alahmari](https://github.com/salam9) | [Slackbot](https://github.com/salam9/05-in-class-lab) | [Feedr](https://github.com/salam9/11-project-2-feedr) | [Final project](https://github.com/mo7md2/misk_js_final_project) |
 |6    | [Abeer Alquriny](https://github.com/abeersq) | [Slackbot](https://github.com/abeersq/05-in-class-lab) | [Feedr](https://github.com/abeersq/11-project-2-feedr) | [Final project](https://github.com/abeersq/final-project) |
-|7    | [Bashayer Alghafis](https://github.com/bashayeralghafis) | [Slackbot](https://github.com/bashayeralghafis/05-in-class-lab) | |  |
+|7    | [Bashayer Alghafis](https://github.com/bashayeralghafis) | [Slackbot](https://github.com/bashayeralghafis/05-in-class-lab) | [Feedr](https://github.com/bashayeralghafis/11-project-2-feedr) |  |
 |8    | [Fahad Alajmi](https://github.com/fahad5) | [Slackbot](https://github.com/fahad5/05-in-class-lab) | [Feedr](https://github.com/fahad5/11-project-2-feedr) | [football fields reservation](https://github.com/fahad5/football-fields-reservation) |
 |9    | [Fahad Alessa](https://github.com/FahadAlessa90) | [Slackbot](https://github.com/FahadAlessa90/05-in-class-lab) | [Feedr](https://github.com/FahadAlessa90/11-project-2-feedr) | [News App](https://github.com/FahadAlessa90/final-project-prompt) |
 |10   | [Fawaz Mashi](https://github.com/fawazfm) | [Slackbot](https://github.com/fawazfm/05-in-class-lab) | [Feedr](https://github.com/fawazfm/11-project-2-feedr) | [Football fields reservation](https://github.com/fahad5/football-fields-reservation) |
@@ -91,7 +91,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 |21   | [Sara Fahad](https://github.com/stop741) | [Slackbot](https://github.com/stop741/05-in-class-lab) | [Feedr](https://github.com/stop741/11-project-2-feedr) | [Final project](https://github.com/stop741/final-project) |
 |22   | [Sultan Alqaedi](https://github.com/salqaedi0) | [Slackbot](https://github.com/salqaedi0/05-in-class-lab) | [Feedr](https://github.com/salqaedi0/11-project-2-feedr) | [Final project](https://github.com/mo7md2/misk_js_final_project) |
 |23   | [Yazeed Alotaibi](https://github.com/yazeedhathal) | [Slackbot](https://github.com/yazeedhathal/05-in-class-lab) | [Feedr](https://github.com/yazeedhathal/11-project-2-feedr) | [Finalproject](https://github.com/mohammedsanad/finalproject) |
-|24   | [Ziyad Almansouri](https://github.com/ziyadSman) | [Slackbot](https://github.com/ziyadSman/05-in-class-lab) | |  |
+|24   | [Ziyad Almansouri](https://github.com/ziyadSman) | [Slackbot](https://github.com/ziyadSman/05-in-class-lab) | [Feedr](https://github.com/ziyadSman/11-project-2-feedr) |  |
 
 
 
